@@ -1,0 +1,4 @@
+.idea/
+.gradle/
+server/build
+client/node_modules
